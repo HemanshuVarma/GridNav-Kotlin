@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridNav-Kotlin</string>
+    <string name="home_fragment">Hello Guest!</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="item_image_in_grid">Item Image in Grid</string>
+</resources>
